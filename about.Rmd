@@ -1,0 +1,7 @@
+---
+title: "About me"
+---
+
+- __Name:__ fatin
+- __Position:__ student
+- __Affiliation:__ FSK
